@@ -14,8 +14,6 @@ module CasePredicates
   module IsA
     TYPES = {
       array: Array,
-      basic_object: BasicObject,
-      comparable: Comparable,
       complex: Complex,
       dir: Dir,
       enumerable: Enumerable,
